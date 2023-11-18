@@ -32,6 +32,8 @@ CREATE TABLE transactions (
 
 To run the project in a development environment, use the following command:
 
+### `npm install`
+
 ### `npm run dev`
 
 This will start the app in development mode. You can view it in your browser by navigating to http://localhost:3000.
